@@ -3,7 +3,7 @@
 
 <p align="center">
   
-  <p align="center">
+  <p align="center"> color=FF0000&
   <a href="https://https://prism-nitrkl.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
     PRISM, NIT Rourkela - Webpage
   </a> |
