@@ -1,9 +1,9 @@
 <h1 align="center">Hi! I'm Arka Bairagi</h1>
-<h3 align="center"> Computer Vision | Machine Learning and Deep Learning | Robotics</h3>
+<h3 align="center"> color=FF0000&lines=Computer Vision | Machine Learning and Deep Learning | Robotics</h3>
 
 <p align="center">
   
-  <p align="center"> color=FF0000&
+  <p align="center"> 
   <a href="https://https://prism-nitrkl.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
     PRISM, NIT Rourkela - Webpage
   </a> |
