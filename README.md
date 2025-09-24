@@ -1,1 +1,35 @@
-# Readme.md
+<h1 align="center">Hi! I'm Arka Bairagi</h1>
+<h3 align="center"> Computer Vision | Machine Learning and Deep Learning | Robotics</h3>
+
+<p align="center">
+  <a href="https://arkabairagi.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
+    Website
+  </a> | 
+
+  <a href="https://www.linkedin.com/in/arka-bairagi-01a087159/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-flex; align-items: center; text-decoration: none;">
+    LinkedIn
+  </a> | 
+
+  <a href="https://scholar.google.com/citations?user=eXua6SwAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #4285F4;">
+    Google Scholar
+  </a> | 
+
+  <a href="mailto:arka.b2408@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #D44638;">
+    Mail
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Restoring+what+the+eye+can’t+see%2C+with+what+the+mind+can+teach.&repeat=false" alt="Animated typing SVG" />
+</p>
+
+
+
+
+---
+
+## About Me:
+- I am currently working at **Barclays** as a Software Engineer in Pune, India.
+- I did my **B.Tech** in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
+- Restoring vision, designing perception and guiding robots to understand the world.  
+- Happiest when a Python script compiles without errors.
