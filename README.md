@@ -21,13 +21,15 @@
   </a> | 
 
   <a href="mailto:arka.b2408@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #D44638;">
-    EMail
+    Email
   </a>
 </p>
 
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Restoring+what+the+eye+can’t+see%2C+with+what+the+mind+can+teach.&repeat=false" alt="Animated typing SVG" />
 </p> -->
+
+
 
 
 ---
