@@ -2,8 +2,14 @@
 <h3 align="center"> Computer Vision | Machine Learning and Deep Learning | Robotics</h3>
 
 <p align="center">
+  
+  <p align="center">
+  <a href="https://https://prism-nitrkl.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
+    PRISM, NIT Rourkela - Webpage
+  </a> |
+    
   <a href="https://arkabairagi.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
-    Website
+    Personal Website
   </a> | 
 
   <a href="https://www.linkedin.com/in/arka-bairagi-01a087159/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; display: inline-flex; align-items: center; text-decoration: none;">
@@ -15,7 +21,7 @@
   </a> | 
 
   <a href="mailto:arka.b2408@gmail.com" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #D44638;">
-    Mail
+    EMail
   </a>
 </p>
 
@@ -29,7 +35,9 @@
 ---
 
 ## About Me:
-- I am currently working at **Barclays** as a Software Engineer in Pune, India.
-- I did my **B.Tech** in **Electronics and Instrumentation Engineering** at **NIT Rourkela**.  
-- Restoring vision, designing perception and guiding robots to understand the world.  
-- Happiest when a Python script compiles without errors.
+- **PhD Research Scholar** in **Department of Electronics and Communication Engineering** at **National Institute of Technology Rourkela**.
+- Completed **M.Tech** in **Electrical Engineering** at **Department of Applied Physics, University of Calcutta**.
+- Secured **First Class First** in **Two Year M.Tech** in **Electrical Engineering** in **2023** from the **University of Calcutta**.
+- Completed **B.Tech** in **Electrical Engineering** at **Government College of Engineering and Textile Technology, Berhampore**.
+- Selected for the **INSPIRE - Scholarship for Higher Education (INSPIRE-SHE)**, for the batch of **2015**.
+- Reviewer of several international conferences like **6th IEEE INDISCON-2025**, **4th IEEE CVMI-2025**, etc.
