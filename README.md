@@ -35,7 +35,7 @@
 ---
 
 ## About Me:
-- **PhD Research Scholar** in **Department of Electronics and Communication Engineering** at **National Institute of Technology Rourkela**.
+- **PhD Research Scholar** in **Department of Electronics and Communication Engineering** at **NIT Rourkela**.
 - Completed **M.Tech** in **Electrical Engineering** at **Department of Applied Physics, University of Calcutta**.
 - Secured **First Class First** in **Two Year M.Tech** in **Electrical Engineering** in **2023** from the **University of Calcutta**.
 - Completed **B.Tech** in **Electrical Engineering** at **Government College of Engineering and Textile Technology, Berhampore**.
