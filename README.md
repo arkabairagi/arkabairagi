@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Arka Bairagi</h1>
-<h3 align="center"> color=FF0000&lines=Computer Vision | Machine Learning and Deep Learning | Robotics</h3>
+<h3 align="center"> Computer Vision | Machine Learning and Deep Learning | Robotics</h3>
 
 <p align="center">
   
@@ -28,8 +28,6 @@
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Restoring+what+the+eye+can’t+see%2C+with+what+the+mind+can+teach.&repeat=false" alt="Animated typing SVG" />
 </p> -->
-
-
 
 
 ---
