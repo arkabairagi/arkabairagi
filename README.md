@@ -4,7 +4,7 @@
 <p align="center">
   
   <p align="center"> 
-  <a href="https://https://prism-nitrkl.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
+  <a href="https://prism-nitrkl.github.io/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px; text-decoration: none; color: #1E90FF;">
     PRISM, NIT Rourkela - Webpage
   </a> |
     
